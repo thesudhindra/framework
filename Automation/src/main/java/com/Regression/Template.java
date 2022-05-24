@@ -10,6 +10,7 @@ public class Template extends baseClass {
         driver.navigate().to("https://www.selenium.dev/downloads/");
         //driver.findElement(By.xpath("//a[normalize-space()='4.1.4']")).click();
         System.out.println(driver.getTitle());
+
         //driver.quit();
 
     }

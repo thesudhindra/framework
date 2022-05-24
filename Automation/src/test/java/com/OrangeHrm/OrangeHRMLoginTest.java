@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
 
 import java.time.Duration;
 
-public class OrangeHRMLogin extends baseClass
+public class OrangeHRMLoginTest extends baseClass
 {
     String userName=null;
     @Test

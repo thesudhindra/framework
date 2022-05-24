@@ -1,13 +1,12 @@
 package com.orangeHrm;
 
 import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.util.Properties;
 
 public class PropertyHandling
 {
     Properties prop;
-    String filepath = "D:\\selenium2022\\Automation\\config.properties";
+    String filepath = "D:\\framework\\Automation\\config.properties";
 
     public PropertyHandling() throws Exception
     {
